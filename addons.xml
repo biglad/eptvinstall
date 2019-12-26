@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="script.vistatv-installer"
-    name="!!! EyePeaTV Build Installer !!!" version="100.0.4" provider-name="Biglad">
+    name="!!! EyePeaTV Build Installer !!!" version="100.0.5" provider-name="Biglad">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -12,8 +12,8 @@
   <extension point="xbmc.addon.metadata">
 <language></language>
     <platform>all</platform>
-    <license>VistaTV 2018</license>
-    <forum>VistaTV 2018</forum>
+    <license>EPTV 2018</license>
+    <forum>EPTV 2018</forum>
     <source></source>
   </extension>
 </addon>
