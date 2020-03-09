@@ -224,8 +224,8 @@ def menuoptions():
 		)
         
     call = dialog.select('[B][COLOR=yellow]EPTV Kodi Build Installer[/COLOR][/B]', [
-    "[B][COLOR=orange]      Smarters For Kodi[/COLOR][/B]", #1
-    "[B][COLOR=orange]      Simple For Kodi[/COLOR][/B]",#2
+    "[B][COLOR=orange]      Smarters For Kodi[/COLOR][/B] (Gold & Normal)", #1
+    "[B][COLOR=orange]      Simple For Kodi[/COLOR][/B] (Gold ONLY!)",#2
     ])
     # dialog.selectreturns
     #   0 -> escape pressed
