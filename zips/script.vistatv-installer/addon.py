@@ -262,13 +262,13 @@ def function2():
     setplayermodes()
     exit()
 		
-addon_id = "plugin.video.eyepeatv.2"
-__settings__=xbmcaddon.Addon(id=addon_id); __language__=__settings__.getLocalizedString
-def get_setting(name): dev=__settings__.getSetting(name); return dev
-username=get_setting("Username")
-password=get_setting("Password")
-if username =="":
-    menuoptions()
-    exit()
+#addon_id = "plugin.video.eyepeatv.2"
+#__settings__=xbmcaddon.Addon(id=addon_id); __language__=__settings__.getLocalizedString
+#def get_setting(name): dev=__settings__.getSetting(name); return dev
+#username=get_setting("Username")
+#password=get_setting("Password")
+#if username =="":
+menuoptions()
+
  
  
